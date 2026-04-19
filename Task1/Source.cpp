@@ -247,6 +247,3 @@ int binarySearch(int arr[], int low, int high, int key) {
 
     return -1;
 }
-// task 1
-// fix for PR
-// final PR
